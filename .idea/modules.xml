@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven.iml" filepath="$PROJECT_DIR$/multi-module-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-api/multi-module-maven-api.iml" filepath="$PROJECT_DIR$/multi-module-maven-api/multi-module-maven-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-maven-service/multi-module-maven-service.iml" filepath="$PROJECT_DIR$/multi-module-maven-service/multi-module-maven-service.iml" />
+    </modules>
+  </component>
+</project>
